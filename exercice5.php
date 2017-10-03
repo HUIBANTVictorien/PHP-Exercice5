@@ -1,8 +1,8 @@
 <?php
-  $nom = "Huibant";
-  $prénom = "Victorien";
-  function fusion($nom, $prénom) {
-        return ($nom .$prénom);
+  $name = "Huibant";
+  $surName = "Victorien";
+  function fusion($name, $surName) {
+        return ($name .$surName);
   }
-  echo fusion($nom, $prénom);
+  echo fusion($name, $surName);
 ?>
