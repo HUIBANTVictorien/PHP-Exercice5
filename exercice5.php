@@ -1,8 +1,8 @@
 <?php
   $nom = "Huibant";
   $prénom = "Victorien";
-  function fuuusionyah($nom, $prénom) {
+  function fusion($nom, $prénom) {
         return ($nom .$prénom);
   }
-  echo fuuusionyah($nom, $prénom);
+  echo fusion($nom, $prénom);
 ?>
